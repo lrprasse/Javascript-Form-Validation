@@ -1,0 +1,39 @@
+body {
+	background-color: #CFC493;
+}
+
+h1{
+	color: #006747;
+}
+
+input[type=text]:focus {
+	border: 2px solid #CFC493;
+}
+
+input[type=text] {
+	border: 2px solid #006747;
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+}
+
+input[type=submit] {
+	border-radius: 12px;
+	padding: 8px 10px;
+}
+
+#firstnamebox {
+	margin-left: 19px;
+}
+
+#emailbox {
+	margin-left: 53px;
+}
+
+#lastnamebox {
+	margin-left: 21px;
+}
+
+
+
+
